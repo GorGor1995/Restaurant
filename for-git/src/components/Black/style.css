@@ -1,0 +1,44 @@
+.black-block {
+    background-image: url(./../../Pictures/bg.jpg);
+    padding: 30px 0px;
+    height: 20vh;
+    background-size: cover;
+}
+
+.left-title {
+    color: #D67E34;
+     font-weight: 400;
+    font-size: 52px;
+    font-family: 'Tinos', serif;
+
+    margin-bottom: 20px;
+
+}
+.left-text {
+    color: #FFFFFF;
+     font-family: 'Open sans', sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 33px;
+}
+
+.right-btn {
+    background-color: #FF7400;
+    color: #fff;
+    text-decoration: none;
+    padding: 15px 18px;
+    font-weight: 700;
+
+    transition: 0.4s linear;
+
+
+}
+.right-btn:hover {
+    background-color: #ee0808;
+
+}
+.block-holder {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

@@ -1,0 +1,71 @@
+.history {
+    margin-top: 166px;
+    padding-bottom: 200px;
+}
+.history-title {
+    font-weight: 400;
+    font-size: 54px;
+    font-family: 'Tinos', serif;
+    width: 444px;
+    text-align: center;
+}
+.history-title span {
+    color: #D67E34;
+}
+.history-desk {
+    font-family: 'Open sans', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #656363;
+    width: 444px;
+    text-align: center;
+    margin-top: 21px;
+}
+.history-number {
+    display: flex;
+    width: 444px;
+    justify-content: center;
+    margin-top: 40px;
+    margin-left: 30px;
+}
+.number-item {
+    margin-right: 60px;
+    text-align: center;
+    color: #BC9060;
+    font-size: 40px;
+}
+.number-item span {
+    display: block;
+    color: #000000;
+    font-size: 20px;
+    font-weight: 400; 
+}
+.history-images {
+    position: relative;
+
+}
+.history-holder {
+    display: flex;
+    
+}
+.image1 {
+    position: absolute;
+    z-index: 500;
+    top: 62px;
+    left: 125px;
+    
+   
+}   
+
+.image2 {
+    position: absolute;
+    z-index: 999;
+    top: 36px;
+    left: 327px;
+}
+.image3 {
+    position: absolute;
+    z-index: 999;
+    top: 200px;
+    left: 440px;
+}

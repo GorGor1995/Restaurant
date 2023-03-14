@@ -1,0 +1,28 @@
+.galery-title {
+    font-family: 'Tinos', serif;
+ font-weight: 400;
+ font-size: 54px;
+ line-height: 62px;
+ 
+ text-align: center;
+ padding-top: 101px;
+ padding-bottom: 60px;
+
+ color: #000000;
+}
+.galery-title span {
+ color: #D67E34;
+}
+.galery-content {
+ display: flex;
+ justify-content: center;
+}
+.galery-left {
+ margin-right: 20px;
+}
+.galery-down, 
+.galery-up {
+ display: flex;
+ justify-content: space-between;
+ margin-top: 30px;
+}
